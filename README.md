@@ -40,11 +40,11 @@ Secondary School Certificate &nbsp;|&nbsp; 90.80% &nbsp;|&nbsp; 2020
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[CardioScan](https://github.com/GauravKumbhar0491/CardioScan)** &nbsp;·&nbsp; <samp>python, pytorch, opencv</samp><br>
+**[CardioScan](https://github.com/GauravKumbhar0491/CardioScanAI)** &nbsp;·&nbsp; <samp>python, pytorch, opencv</samp><br>
 Deep-learning cardiac analysis pipeline. CNN-based segmentation and classification<br>
 of echocardiogram data, with a Flask API for clinical inference.
 
-**[Placement Hub](https://github.com/GauravKumbhar0491/Placement-Hub)** &nbsp;·&nbsp; <samp>html, css, javascript, python, flask, mysql</samp><br>
+**[Placement Hub](https://github.com/GauravKumbhar0491/Placement_Hub)** &nbsp;·&nbsp; <samp>html, css, javascript, python, flask, mysql</samp><br>
 Student-centric platform for placement preparation. Integrated authentication<br>
 and resource management modules with optimized backend queries.
 
