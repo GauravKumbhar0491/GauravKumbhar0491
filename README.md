@@ -52,24 +52,6 @@ and resource management modules with optimized backend queries.
 Platform for donor/recipient registration with secure MySQL storage. Features<br>
 real-time blood stock search by group, state, and city.
 
-<br><br>
-
-<img src="./hd-experience.svg" width="620" alt="experience"/>
-
-**Skyswoops Electrical and Solar System Solutions** &nbsp;·&nbsp; <samp>Jan 2025 - Mar 2025</samp><br>
-*Full-Stack Development Intern*<br>
-Collaborated with a 4-member team to design & deploy a full-stack e-commerce website.<br>
-Improved page load speed by 40%, reducing bounce rates and enhancing user experience.
-
-<br><br>
-
-<img src="./hd-certifications.svg" width="620" alt="certifications"/>
-
-- **freeCodeCamp** &mdash; Data Analysis with Python
-- **Cognitive Class** &mdash; SQL and Relational Databases 101
-- **IBM Grade-AI** &mdash; Practical knowledge in AI/ML model building and deployment
-- **CISCO** &mdash; Data Science Essentials with Python
-
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
