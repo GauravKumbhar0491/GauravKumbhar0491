@@ -44,14 +44,6 @@ Secondary School Certificate &nbsp;|&nbsp; 90.80% &nbsp;|&nbsp; 2020
 Deep-learning cardiac analysis pipeline. CNN-based segmentation and classification<br>
 of echocardiogram data, with a Flask API for clinical inference.
 
-**[ML-Algorithms](https://github.com/GauravKumbhar0491/ML-Algorithms)** &nbsp;·&nbsp; <samp>python, scikit-learn, pandas</samp><br>
-From-scratch implementations of Regression, Decision Trees, Random Forest, SVM<br>
-and ensemble methods — each with a full EDA notebook and statistical validation.
-
-**[NLP-Pipeline](https://github.com/GauravKumbhar0491/NLP-Pipeline)** &nbsp;·&nbsp; <samp>python, nltk, tfidf, word embeddings</samp><br>
-Text preprocessing toolkit: tokenisation, stopword removal, stemming, lemmatisation,<br>
-TF-IDF vectorisation and word-embedding training on custom corpora.
-
 **[Placement Hub](https://github.com/GauravKumbhar0491/Placement-Hub)** &nbsp;·&nbsp; <samp>html, css, javascript, python, flask, mysql</samp><br>
 Student-centric platform for placement preparation. Integrated authentication<br>
 and resource management modules with optimized backend queries.
